@@ -193,3 +193,5 @@ This list [was found on reddit](https://www.reddit.com/r/djimavicmini/comments/e
 The app's NFZ database can be easily removed by deleting a couple of files. You'll need a rooted phone. This won't allow you flying into a NFZ (the drone keeps a copy of the database) but at least you won't see the annoying overlays of authorization zones, no fly zones, etc. on the map. Simply delete the following folder:
 
 * `/data/data/dji.go.v5/files/flysafe`
+
+Additional resources: https://mavic-mini-ce-boost.github.io/
